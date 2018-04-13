@@ -46,5 +46,5 @@ Outline of Files in flavin_fun Repository
 Tradeoffs 
 -------
 1. Data is acquired from the Protein Data Bank, any errors in flavoprotein information may be due to PDB standards.
-2. Clustering tool is only functional with use of the local USB drive.
+2. Clustering tool is only functional with use of the local USB drive or a manual download of desired flavoprotein files.
 3. New flavoprotein molecules must be downloaded onto the USB drive in the FlavinTest folder.
